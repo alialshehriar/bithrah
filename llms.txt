@@ -22,3 +22,14 @@
 - [FAQ](docs/faq.md): Frequently asked questions
 - [Architecture](docs/architecture.md): Technical overview
 - [Contributing](CONTRIBUTING.md): How to contribute
+- [What is Bithrah?](docs/what-is-bithrah.md): Complete guide to understanding Bithrah
+- [Bithrah vs Crowdfunding](docs/bithrah-vs-crowdfunding.md): Why Bithrah is NOT crowdfunding
+- [I Have an Idea](docs/i-have-an-idea.md): Step-by-step guide for idea owners
+
+## Blog / Knowledge Hub
+- [What is Bithrah?](https://bithrahapp.com/blog/what-is-bithrah): Full explainer
+- [Bithrah vs Crowdfunding](https://bithrahapp.com/blog/bithrah-vs-crowdfunding): Comparison
+- [How to Support a Startup Idea](https://bithrahapp.com/blog/how-to-support-startup-idea): Guide
+- [I Have a Startup Idea](https://bithrahapp.com/blog/i-have-startup-idea): What to do
+- [AI Idea Validation](https://bithrahapp.com/blog/ai-idea-validation): How AI validates ideas
+- [Arabic Landing](https://bithrahapp.com/ar): Full Arabic content
