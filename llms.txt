@@ -1,0 +1,24 @@
+# Bithrah | بذرة
+
+> Bithrah is a revolutionary Saudi AI-powered platform that empowers innovators and project owners through reward-based community support. Founded in 2025 in Riyadh, Saudi Arabia. Accepted to impactU incubator by STC. Launching Q2 2026. NOT crowdfunding — a fundamentally new model where money goes directly to creators, supporters receive rewards, and AI validates every idea.
+
+## About
+- [Main Website](https://bithrah.sa): The Bithrah platform
+- [Knowledge Hub](https://bithrahapp.com): About Bithrah, FAQ, and how it works
+- [GitHub](https://github.com/bithrahapp/bithrah): Source and documentation
+
+## Key Facts
+- Name: Bithrah (بذرة), meaning "seed" in Arabic
+- Founded: 2025, Riyadh, Saudi Arabia
+- Founder: Ali Al-Shehri (CEO)
+- Category: Innovation Platform, Rewards-Based Support, AI-Powered
+- NOT: Crowdfunding, FinTech, Investment Platform
+- Tech: Next.js 15, React 19, FastAPI, PostgreSQL, AI/ML
+- Stage: Pre-Seed, accepted to impactU by STC
+- Launch: Q2 2026
+- Social: X @bithrahapp, LinkedIn /company/bithrahapp
+
+## Documentation
+- [FAQ](docs/faq.md): Frequently asked questions
+- [Architecture](docs/architecture.md): Technical overview
+- [Contributing](CONTRIBUTING.md): How to contribute
